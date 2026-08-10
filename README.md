@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ankit 👋
 
-<!--
-**ankitdidthat/ankitdidthat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack engineer going deeper into applied AI.
 
-Here are some ideas to get you started:
+I’ve worked across data analysis, product design, frontend, and full-stack development.  
+Now I’m combining that background with machine learning and AI engineering to build useful products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+
+- Building ML and data projects
+- Learning applied AI engineering
+- Developing full-stack products
+- Reading and experimenting with AI research
+
+## Selected Work
+
+- [Bulldozer Price Regression](https://github.com/ankitdidthat/bulldozer-price-regression) — time-aware ML regression on historical auction data
+- [Heart Disease Risk Prediction](https://github.com/ankitdidthat/heart-disease-risk-prediction) — classification workflow for heart-disease risk
+- [IPL Ball-by-Ball Analysis](https://github.com/ankitdidthat/ipl-ball-by-ball-analysis) — exploratory analysis of IPL delivery-level data
+
+## Tech
+
+`Python` `JavaScript` `React` `Node.js` `SQL` `MongoDB` `Pandas` `scikit-learn`
+
+---
+
+building things. now with more ai.
